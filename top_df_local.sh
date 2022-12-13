@@ -5,3 +5,5 @@ now+=.txt
 
 top -n 1 > $now
 df -h >> $now
+
+export now
